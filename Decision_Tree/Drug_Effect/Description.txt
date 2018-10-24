@@ -1,0 +1,9 @@
+The following dataset had been given:
+[ Age	Sex	BP	Cholesterol	Na_to_K	    Drug]
+
+5 types of drugs are their, and patients responds to one of the following 5 type of drug.
+
+Our job is to create a model in which if a new data comes we can suggest which drug will be most suitable for the patient
+For this we will be using Decision Tree Algorithm
+
+
