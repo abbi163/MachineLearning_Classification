@@ -1,0 +1,2 @@
+Using logistics we have to find the churn customers. We have been given customer historical data and customer who had churn before.
+Based on those data we have to create model to predict who will churn, by using logistic regression.
